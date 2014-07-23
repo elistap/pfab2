@@ -1,0 +1,15 @@
+first ="Pat"
+last = "Harston"
+age = 47
+print first, last, age
+
+
+operand1 = 95
+operand2 = 64.5
+
+print operand1 + operand2
+print operand1 - operand2
+print operand1 * operand2
+print operand1 / operand2
+print operand1 % operand2
+  # Would only hve to change the operand 1 and 2. 
